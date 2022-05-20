@@ -21,6 +21,7 @@ public class OrderMain80 {
     public static void main(String[] args) {
         System.out.println("order80开始");
         System.out.println("*****************");
+        System.out.println("+++++++++++++++++");
         SpringApplication.run(OrderMain80.class, args);
     }
 }
